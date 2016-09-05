@@ -1,0 +1,12 @@
+{
+    "name": "SHPS4Node-parallel",
+    "version": "1.0.0",
+    "description": "Sub-Process Manager used by SHPS",
+    "author": "Marco Alka <me@marco-alka.de>",
+    "main": "index-parallel.js",
+    "dependencies": {
+        "colors": ">=0.6.0 < 2",
+        "q": "^1.2.0",
+        "node-mod-load": "^2.1.0"
+    }
+}
